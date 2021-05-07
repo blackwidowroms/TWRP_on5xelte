@@ -16,7 +16,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := $(call my-dir)
+LOCAL_PATH := device/samsung/on5xelte
 
 ifeq ($(TARGET_DEVICE), on5xelte)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
