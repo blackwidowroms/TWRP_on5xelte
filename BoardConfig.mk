@@ -40,7 +40,7 @@ TARGET_2ND_CPU_VARIANT := cortex-a53
 TARGET_KERNEL_ARCH := arm64
 TARGET_USES_UNCOMPRESSED_KERNEL := true
 TARGET_KERNEL_HEADER_ARCH := arm64
-TARGET_PREBUILT_KERNEL := device/samsung/on5xelte/Image
+TARGET_PREBUILT_KERNEL := device/samsung/on5xelte/zImage
 TARGET_PREBUILT_DTB := device/samsung/on5xelte/dt.img
 
 # Image
